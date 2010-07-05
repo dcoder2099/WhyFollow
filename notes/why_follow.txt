@@ -1,0 +1,32 @@
+The core idea:
+
+http://blog.damonc.com/2010/06/16/idea-15-why-do-you-follow-me-on-twitter/
+
+Discussion from http://atxwebshow.com/archives/409/episode-14-cafe-bedouins-with-damon
+I'm following 600 people right now...
+
+And sometimes I go look back through that and I see somebody and say, "Why
+am I following this person?"
+
+There WAS a reason.
+
+Add a note to say, "Here's why I follow this person."
+
+Then allow it to be public (or private).
+
+realtime filling in of why someone's being followed.
+
+Share across all users and have a search for discovering people 
+to follow based on similar reasons...
+
+And after aggregating all that, you can provide a search across all those
+people.
+
+Social graph, "second stage" feasibility
+
+Lists on steroids.
+
+Having a note field lowers the barrier to creating lists... I can annotate
+these people as I find them and then as a possible future-feature, be able
+to pull all those together to build my list.
+
