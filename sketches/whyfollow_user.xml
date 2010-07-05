@@ -5,12 +5,12 @@
         <text>Why%20people%20follow%20dcoder...%0Ahttp%3A//cool.url/dcoder</text>
       </controlProperties>
     </control>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::FieldSet" x="68" y="122" w="675" h="430" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::FieldSet" x="68" y="146" w="675" h="406" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Why%20people%20follow</text>
+        <text>Why%20people%20follow%20@dcoder</text>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::SubTitle" x="83" y="146" w="-1" h="-1" measuredW="104" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::SubTitle" x="68" y="106" w="-1" h="-1" measuredW="104" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>@dcoder</text>
       </controlProperties>
