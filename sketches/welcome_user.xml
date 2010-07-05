@@ -499,13 +499,13 @@
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="3" locked="false" isInGroup="72">
           <controlProperties>
             <size>14</size>
-            <text>@twitterhandle</text>
+            <text>@anotherfollower</text>
           </controlProperties>
         </control>
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="38" y="20" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="4" locked="false" isInGroup="72">
           <controlProperties>
             <size>11</size>
-            <text>First%20Lastname</text>
+            <text>Harrison%20Ford</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="286" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="72">
@@ -571,13 +571,13 @@
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="3" locked="false" isInGroup="73">
           <controlProperties>
             <size>14</size>
-            <text>@twitterhandle</text>
+            <text>@damon</text>
           </controlProperties>
         </control>
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="38" y="20" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="4" locked="false" isInGroup="73">
           <controlProperties>
             <size>11</size>
-            <text>First%20Lastname</text>
+            <text>Damon%20Clinkscales</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="286" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="73">
@@ -643,13 +643,13 @@
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="3" locked="false" isInGroup="74">
           <controlProperties>
             <size>14</size>
-            <text>@twitterhandle</text>
+            <text>@techscruggs</text>
           </controlProperties>
         </control>
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="38" y="20" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="4" locked="false" isInGroup="74">
           <controlProperties>
             <size>11</size>
-            <text>First%20Lastname</text>
+            <text>Aaron%20Scruggs</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="286" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="74">
@@ -715,13 +715,13 @@
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="3" locked="false" isInGroup="75">
           <controlProperties>
             <size>14</size>
-            <text>@twitterhandle</text>
+            <text>@benhamill</text>
           </controlProperties>
         </control>
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="38" y="20" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="4" locked="false" isInGroup="75">
           <controlProperties>
             <size>11</size>
-            <text>First%20Lastname</text>
+            <text>Ben%20Hamill</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="286" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="75">
