@@ -28,7 +28,7 @@
         <text>Welcome%2C%20DCoder%21</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::FieldSet" x="417" y="151" w="327" h="388" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::FieldSet" x="411" y="151" w="327" h="388" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Your%20followers...</text>
       </controlProperties>
@@ -376,6 +376,97 @@
           </groupChildrenDescriptors>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="432" y="168" w="-1" h="-1" measuredW="283" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Total%20followers%3A%20128%20%20Follower%20Comments%3A%2024</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="421" y="190" w="302" h="66" measuredW="302" measuredH="66" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="61" w="302" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="53"/>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="302" h="59" measuredW="302" measuredH="59" zOrder="1" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="1" controlTypeID="__group__" x="2" y="0" w="-1" h="-1" measuredW="300" measuredH="42" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="0" y="0" w="-1" h="-1" measuredW="152" measuredH="42" zOrder="0" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <icon>ContactIcon%7Cmedium</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="36" y="0" w="-1" h="-1" measuredW="116" measuredH="26" zOrder="1" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <size>14</size>
+                        <text>@AnotherPerson</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="36" y="20" w="-1" h="-1" measuredW="102" measuredH="22" zOrder="2" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <size>11</size>
+                        <text>Melissa%20Etheridge</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="1" controlTypeID="__group__" x="205" y="5" w="-1" h="-1" measuredW="95" measuredH="16" zOrder="1" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="79" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <icon>LockOpenIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="__group__" x="0" y="0" w="-1" h="-1" measuredW="68" measuredH="16" zOrder="1" locked="false" isInGroup="1">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <color>8554646</color>
+                            <icon>StarIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="17" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <color>8554646</color>
+                            <icon>StarIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="35" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <color>8554646</color>
+                            <icon>StarIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="52" y="0" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <color>8554646</color>
+                            <icon>StarIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3" controlTypeID="__group__" x="0" y="39" w="102" h="20" measuredW="102" measuredH="20" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="0" y="0" w="-1" h="-1" measuredW="102" measuredH="20" zOrder="0" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <size>10</size>
+                    <text>Add%20a%20follower%20note...</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="727" y="166" w="-1" h="365" measuredW="16" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties/>
     </control>
   </controls>
 </mockup>
