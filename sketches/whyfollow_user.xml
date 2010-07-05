@@ -15,5 +15,12 @@
         <text>Why%20people%20follow%20@dcoder...</text>
       </controlProperties>
     </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Paragraph" x="575" y="108" w="166" h="53" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>false</bold>
+        <text>Total%20followers%3A%20*128*%0AFollower%20comments%3A%20*24*</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
