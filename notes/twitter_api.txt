@@ -4,4 +4,5 @@ http://twitterapi.pbworks.com/Twitter-REST-API-Method:-users%20show
 Get friendships:
 http://twitterapi.pbworks.com/Twitter-REST-API-Method:-friendships-show
 
-
+Get array of follower ids:
+http://twitterapi.pbworks.com/Twitter-REST-API-Method:-followers%20ids
