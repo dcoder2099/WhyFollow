@@ -22,5 +22,11 @@
         <text>Total%20followers%3A%20*128*%0AFollower%20comments%3A%20*24*</text>
       </controlProperties>
     </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Icon" x="79" y="165" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+        <icon>ContactIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
