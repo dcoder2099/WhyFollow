@@ -6,3 +6,6 @@ http://twitterapi.pbworks.com/Twitter-REST-API-Method:-friendships-show
 
 Get array of follower ids:
 http://twitterapi.pbworks.com/Twitter-REST-API-Method:-followers%20ids
+
+Authlogic OAuth Example App:
+http://github.com/jrallison/authlogic_example/tree/with-oauth
