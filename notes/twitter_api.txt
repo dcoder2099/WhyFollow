@@ -1,5 +1,9 @@
 Get a user:
-http://twitterapi.pbworks.com/Twitter-REST-API-Method:-users%20show
+http://apiwiki.twitter.com/Twitter-REST-API-Method:-users%C2%A0show
+
+Lookup api:
+http://blog.damonc.com/2010/03/11/twitter-api-user-bulk-lookup/
+http://apiwiki.twitter.com/Twitter-REST-API-Method:-users-lookup
 
 Get friendships:
 http://twitterapi.pbworks.com/Twitter-REST-API-Method:-friendships-show
