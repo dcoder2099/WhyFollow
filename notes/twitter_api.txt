@@ -13,3 +13,14 @@ http://twitterapi.pbworks.com/Twitter-REST-API-Method:-followers%20ids
 
 Authlogic OAuth Example App:
 http://github.com/jrallison/authlogic_example/tree/with-oauth
+
+Workflow from authlogic-connect-example:
+1. Start w/ empty/new UserSession
+2. Provide link to twitter/auth
+3. Post to /authenticate (UserSessionsController#create)
+4. Redirects to api.twitter.com/oauth/authenticate?...
+5. [Do twitter auth]
+6. Callback to UserSessionsController#create w/ oauth_token and oauth_verifier
+7. [authlogic takes over]
+8. [authlogic:] If an access_token record and users record doesn't exist,
+   then create a new user record and then new access_token
